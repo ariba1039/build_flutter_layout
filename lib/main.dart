@@ -22,18 +22,16 @@ class MyApp extends StatelessWidget {
           child: Column(
             children: [
               ImageSection(
-                image: 'assets/images/nahubitconf.jpg',
+                image: 'assets/images/ariba.jpeg',
               ),
               TitleSection(
-                name: 'Nahuel Civico',
-                location: 'Arroyo Seco, Santa Fe, Argentina.',
+                name: 'Ariba Hussain ',
+                location: 'Pirmasens, Germany.',
               ),
               ButtonSection(),
               TextSection(
                 description:
-                    'I am passionate about the world of technology and programming.'
-                    'I have +7 years of experience in software development, day after day I incorporate knowledge through independent courses, exercises and online material in a self-taught way.'
-                    'I am pro-active, my communication skills and team work are strengthened as a team member. I enjoy making things happen, and above all I follow my own dreams!',
+                "I am passionate about technology and programming, with over 2 years of experience specifically in Flutter development. I continuously enhance my skills through independent courses, exercises, and online resources. I’m proactive and thrive in team environments, valuing strong communication and collaboration. I enjoy bringing ideas to life and pursuing my dreams in the tech world!"
               ),
             ],
           ),

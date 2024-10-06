@@ -45,7 +45,7 @@ class TitleSection extends StatelessWidget {
             Icons.star,
             color: Colors.red[500],
           ),
-          const Text('41'),
+          const Text('49'),
         ],
       ),
     );
