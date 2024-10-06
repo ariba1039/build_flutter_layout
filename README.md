@@ -1,7 +1,7 @@
 # build_flutter_layout
-
+<div align="center"> 
 <img width="299" alt="assign_2" src="https://github.com/user-attachments/assets/2de85724-c17d-4609-bfce-de285020de13">
-
+</div>
 ## Reach to me
 
 <div align="center"> 
